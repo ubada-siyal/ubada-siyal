@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm [ Ubada Siyal ] 👋</h1>
 <h3 align="center">Computer Science Student · Aspiring AI Engineer</h3>
 
 <p align="center">
@@ -36,8 +36,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
-
-*(Remove any badge above you haven't actually used yet — only list what's true.)*
 
 ---
 
